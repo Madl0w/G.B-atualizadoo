@@ -1,0 +1,44 @@
+*{  
+   margin: 40;
+   padding: 40;
+   text-align:left;
+
+}
+
+.cabecalho {
+    background-color: blueviolet;
+    color: aquamarine;
+    display: flex;
+    justify-content: space-around;
+    padding: 24px;
+    font-size: 24px;
+}
+.cabecalho-imagem {
+    width: 300px;
+    height: 200px;
+}
+.cabecalho-item {
+    display: inline-block;
+    padding: 15px;
+    margin:  30px;
+    text-align:left;
+}
+.horta {
+    background-image: linear-gradient(#84f6e7,#b1f9f6);
+    color: rgb(39, 38, 38);
+    font-size: 21px;
+    padding: 40px 100px;
+}
+.horta-titulo{
+    padding: 40px 0px;
+    margin:30px;px; 
+    text-align:left;
+}
+.Horta-foto{
+    width: 120px;
+    color: rgb(20, 20, 20);
+    padding: 40px;
+    margin:  30px;
+    text-align:left;
+
+    
